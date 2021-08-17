@@ -19,6 +19,8 @@ def form():
         pass
     elif condition == 'domain':
         pass
+    elif condition == 'link':
+        pass
 
     return output
 
